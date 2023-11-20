@@ -6,7 +6,6 @@ drive.mount('/content/drive',force_remount=True)
 os.chdir('/content/drive/My Drive/Dataset')
 
 os.listdir()
-
 """#Loading data from mri scans"""
 
 path1 = './HGG/'
